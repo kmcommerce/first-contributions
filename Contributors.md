@@ -6,6 +6,7 @@
 -[Abdullahi Hamisu](https://github.com/captainprinz)**First Contribution and first emoji ever on desktop🎆🎈🚀**
 -[Durvesh Wagh](https://github.com/durveshwagh11)**First Contribution Here👋**
 - jaajaaBinks
+- [Manoj Sai](https://github.com/bmanojsai)**Thanks for this repo! It's helps a lot of people.
 - [Oluwatobiloba Mosinmiloluwa Ajani Jesulayomi Ibrahim Abidoye AKA Tobi Abidoye](https://github.com/tobiabidoye)"Hipster by heart but i can tell you how them streets feel"
 - [Eren Turkoglu] (https://github.com/erenworld) **Hi, I'm Eren'**
 - [Ames](https://github.com/theamescsm) 19 Jul 2024 "Playing with Git is fun"
@@ -18,6 +19,7 @@
 -[Sitotaw Ashagre](https://github.com/yotors) **May be the first appearance in the os contribution realm**
 - [AMKCode] (https://github.com/AMKCode/) **added AMKCode to the contributions list, added descriptions**
 -[abhay tomar](https://github.com/uniquepersun) **here me goooo! :)**
+-[Benjamin Helm] (https://github.com/BenjaminHelm) **to many more contributions to come**
 -[Sutipong Panyanil](https://github.com/sutigit) **2024/07/12 First contribution ever! Stay open!**
 - [Yu]**2024年7月12日21:23:54 Yuuuuuuu**
 - [Mpara Romaric](https://github.com/sampleris) **2024/07/12 :)**
@@ -54,6 +56,7 @@
 -Shereyar Ali (Shits Tough But Fun)
 -Prateek ** Hello coders! **
 -Sartaj(https://github.com/TAJ-32) **excited to contribute!!**
+-[add-mydomain]
 -[Ignacio Gonzalez](https://github.com/IgnaGonza)_**Hello Everyone!🎉**_
 -[Luke Southerton](https://github.com/LSoutherton)**12/07/2024 First Contribution!**
 -[Jugraj-Singh](https://github.com/Jugrajsinghbali)**3 in the morning First Contribution!**
@@ -96,6 +99,7 @@
 - [Ender Dreams ˙ᵕ˙](https://github.com/notenderdreams) **Rolling up**
 - [Ahmed Edrees (EdroVolt)](https://github.com/EdroVolt/)
 - Masudur Bhuiyan
+- Roman Watson
 - Ernesto Saer
 - Joshua Kuschner
 - Shambhabya Medhi
@@ -6485,3 +6489,4 @@ https://github.com/06Gagan
 - [Chaitrali Kore](https://github.com/Chaitralikore)
 - [Nyein Chan Ko](https://github.com/NyeinChanKo-tech) **first public contribution**
 - [Ashwin P Shine](https://github.com/prisoneroflove) **Not first, but a contribution. From GreySkale Robotics**
+- [Farzan Ullah](https://github.com/Farzan-Ullah) **My first contribution**
